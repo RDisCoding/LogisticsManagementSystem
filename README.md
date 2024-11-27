@@ -157,4 +157,4 @@ Active development and maintenance
 
 ## 📧 Contact
 - Your Name: rudraydave@gmail.com
-- Project Link: [https://github.com/yourusername/logistics-management-system](https://github.com/RDisCoding/logistics-management-system)
+- Project Link: https://github.com/RDisCoding/logistics-management-system
