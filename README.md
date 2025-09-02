@@ -156,5 +156,5 @@ Active development and maintenance
 **Created with ❤️ by The Analyzer**
 
 ## 📧 Contact
-- Your Name: rudraydave@gmail.com
+- Rudray Dave: rudraydave@gmail.com
 - Project Link: https://github.com/RDisCoding/logistics-management-system
